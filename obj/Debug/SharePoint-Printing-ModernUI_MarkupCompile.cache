@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\SharePointApps\SharePoint-Printing-ModernUI\SharePoint-Printing-ModernUI\obj\Debug\
+C:\Development\SharePoint-Printing-ModernUI\obj\Debug\
 SharePoint_Printing_ModernUI
 none
 false
 DEBUG;TRACE
-C:\SharePointApps\SharePoint-Printing-ModernUI\SharePoint-Printing-ModernUI\App.xaml
+C:\Development\SharePoint-Printing-ModernUI\App.xaml
 6840438733
 
 9-253225331
-131390127064
+13-394877030
 MainWindow.xaml;Pages\BatchPrint\PrintQueue.xaml;Pages\Settings\About.xaml;Pages\Settings\Appearance.xaml;Pages\Home.xaml;Pages\SettingsPage.xaml;
 
 False
